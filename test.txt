@@ -1,0 +1,6 @@
+nome: Da Mario
+tipo menu: carne
+Bevande: 1)Vino Rosso
+         2)Acqua Frizzante
+         3)Coca-cola
+         4)Fanta
