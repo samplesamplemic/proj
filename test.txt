@@ -3,4 +3,7 @@ tipo menu: carne
 Bevande: 1)Vino Rosso
          2)Acqua Frizzante
          3)Coca-cola
-         4)Fanta
+         4)Fanta 
+
+Antipasti: 1) Bruschettoni misti 
+           2) Tartare segreta dello chef         
