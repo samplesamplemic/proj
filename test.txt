@@ -3,4 +3,15 @@ tipo menu: carne
 Bevande: 1)Vino Rosso
          2)Acqua Frizzante
          3)Coca-cola
-         4)Fanta
+         4)Fanta 
+
+Antipasti: 1) Bruschettoni misti 
+           2) Tartare segreta dello chef         
+           3) Affettati misti tradizionali 
+
+
+Primi Piatti: 1) Pasta al ragù
+              2) Pasta all'matriciana          
+ 
+Secondi Piatti: 1) Petto di pollo
+                2) Polpo alla griglia
