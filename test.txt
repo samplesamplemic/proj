@@ -8,3 +8,6 @@ Bevande: 1)Vino Rosso
 Antipasti: 1) Bruschettoni misti 
            2) Tartare segreta dello chef         
            3) Affettati misti tradizionali 
+
+Secondi Piatti: 1) Petto di pollo
+                2) Polpo alla griglia
