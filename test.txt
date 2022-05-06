@@ -8,3 +8,6 @@ Bevande: 1)Vino Rosso
 Antipasti: 1) Bruschettoni misti 
            2) Tartare segreta dello chef         
            3) Affettati misti tradizionali 
+
+Primi Piatti: 1) Pasta al ragù
+              2) Pasta all'matriciana          
